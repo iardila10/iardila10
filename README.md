@@ -4,17 +4,15 @@
 
 ### Backend Developer | JavaScript | Node.js | Express.js
 
-<p>
-  <a href="https://github.com/ardila_404">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+Backend Developer focused on building REST APIs, backend applications and practical software solutions.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blue" alt="Profile views">
+  <a href="https://github.com/iardila10">
+    <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:freeguasonp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 </div>
@@ -23,36 +21,13 @@
 
 ## About Me
 
-I'm a student and aspiring software engineer focused on **Backend Development**.
+I'm a **Backend Developer** focused on building and understanding the systems that power modern applications.
 
-I enjoy building applications, designing APIs and understanding how software works behind the scenes. My current path is centered around **JavaScript, Node.js, Express.js, REST APIs and databases**, while developing a strong foundation in programming, problem solving and cybersecurity.
+My main development stack is **JavaScript, Node.js and Express.js**, with a focus on **REST API development, CRUD operations, HTTP, data handling and backend architecture**.
 
-I'm also interested in **ethical hacking, Linux, software architecture and business-oriented technology solutions**.
+I enjoy solving problems through software and continuously improving my understanding of how applications, servers and systems work.
 
-```javascript
-const emiliano = {
-    role: "Backend Developer",
-    location: "Medellín, Colombia",
-
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "REST APIs",
-        "Databases",
-        "Cybersecurity"
-    ],
-
-    interests: [
-        "Backend Development",
-        "Cybersecurity",
-        "Linux",
-        "Software Architecture",
-        "Technology & Business"
-    ],
-
-    mindset: "Build. Learn. Improve."
-};
-```
+I'm also expanding my knowledge in **Linux and cybersecurity**, with an interest in ethical hacking and application security.
 
 ---
 
@@ -61,40 +36,60 @@ const emiliano = {
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express" alt="JavaScript, Node.js and Express.js">
 </p>
 
-### Databases & APIs
+### Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,postman" alt="Database and API technologies">
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS">
 </p>
 
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" alt="Git, GitHub, VS Code, Linux, Bash and npm">
+</p>
+
+### API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman">
 </p>
 
 ---
 
-## What I Can Do
+## Backend Development
 
-* Build REST APIs with Node.js and Express.js
-* Create CRUD operations and API endpoints
-* Work with HTTP methods, parameters, queries, headers and request bodies
-* Manipulate and structure data with JavaScript
-* Work with Git and GitHub
-* Develop applications in Linux environments
-* Debug and analyze backend code
-* Design basic to advanced software solutions around real-world problems
-* Learn and apply cybersecurity concepts
+I work with:
+
+* REST API development
+* Node.js
+* Express.js
+* JavaScript
+* CRUD operations
+* HTTP methods
+* Route parameters
+* Query parameters
+* Request bodies
+* JSON
+* HTTP status codes
+* Error handling
+* Data manipulation
+* API testing with Postman
+
+---
+
+## Tools & Workflow
+
+* Git & GitHub
+* Visual Studio Code
+* Linux
+* Bash
+* npm
+* Postman
+
+I use Git and GitHub to manage development workflows, track changes and maintain my projects.
 
 ---
 
@@ -102,63 +97,54 @@ const emiliano = {
 
 ### REST API — Product Management
 
-Backend API developed with **Node.js + Express.js**.
+Backend API developed with **Node.js and Express.js** to practice and demonstrate REST API development.
 
-Features include:
+Implemented concepts include:
 
 * CRUD operations
-* Dynamic route parameters
+* REST endpoints
+* Route parameters
 * Query parameters
+* HTTP methods
 * HTTP status codes
-* JSON request/response handling
+* JSON
+* Request and response handling
 * Error handling
-* Product management
 
-<p>
-  <a href="https://github.com/iardila10/Mi-primera-API">
-    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-### JavaScript Ticket System
-
-A JavaScript application focused on practicing programming logic, functions, arrays, objects and modular code organization.
-
-<p>
-  <a href="https://github.com/iardila10/Sistema-Tickets">
-    <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/iardila10?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
+</a>
 
 ---
 
-## Currently i Still Learning
+### JavaScript Projects
 
-```text
-JavaScript
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-REST APIs
-   ↓
-Databases
-   ↓
-Backend Architecture
-   ↓
-Cybersecurity
-```
+A collection of projects focused on strengthening programming fundamentals and backend-oriented problem solving.
 
-My goal is to become a strong backend developer capable of building reliable software and understanding the security behind the systems I create.
+Concepts explored include:
+
+* Functions
+* Arrays
+* Objects
+* Loops
+* Conditionals
+* Callbacks
+* Promises
+* Async/Await
+* Data manipulation
+* Modular programming
+
+<a href="https://github.com/iardila10?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects">
+</a>
 
 ---
 
 ## Cybersecurity
 
-I'm developing an additional technical path in **cybersecurity and ethical hacking**.
+Alongside backend development, I'm expanding my knowledge of **cybersecurity and ethical hacking**.
 
-Areas of interest:
+Areas of interest include:
 
 * Linux
 * Networking
@@ -168,56 +154,76 @@ Areas of interest:
 * Application security
 * Secure backend development
 
+My goal is to combine **backend development and security** to better understand how modern software is built, tested and protected.
+
+---
+
+## Currently Expanding My Stack
+
+```text
+JavaScript
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+REST APIs
+    ↓
+Databases
+    ↓
+Backend Architecture
+    ↓
+Cybersecurity
+```
+
 ---
 
 ## Languages
 
-🇨🇴 **Spanish** — Native
+**Spanish** — Native
 
-🇺🇸 **English** — Advanced
+**English** — Intermediate · Currently improving
 
-Currently improving my English specifically for **technology, sales, communication and international work environments**.
+I'm improving my English with a focus on **technology, professional communication and international work environments**.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iardila10&show_icons=true&theme=github_dark&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=iardila10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iardila10&layout=compact&theme=github_dark&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iardila10&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top languages">
 
 </div>
 
 ---
 
-## Developer Philosophy
+## Developer Mindset
 
-> "Don't just learn how to use technology. Understand how it works."
+> Understand the problem. Build the solution. Improve the process.
 
-I believe that becoming a good developer is not about knowing the most technologies, but about being able to **understand problems, build solutions and continuously improve**.
+I believe good software development is about more than writing code. It's about understanding problems, designing solutions and continuously improving.
+
+I'm focused on building practical projects, strengthening my backend skills and developing the technical foundation to work on real-world software.
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/iardila10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="freeguasonp@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:freeguasonp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-freeguasonp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### Building the future, one line of code at a time.
+<strong>Building software. Solving problems. Growing every day.</strong>
 
 </div>
