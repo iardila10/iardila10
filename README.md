@@ -21,7 +21,7 @@ Backend Developer focused on building REST APIs, backend applications and practi
 
 ## About Me
 
-I'm a **Backend Developer** focused on building and understanding the systems that power modern applications.
+I'm a **Backend Developer** focused on building and understanding the systems behind modern applications.
 
 My main development stack is **JavaScript, Node.js and Express.js**, with a focus on **REST API development, CRUD operations, HTTP, data handling and backend architecture**.
 
@@ -33,28 +33,41 @@ I'm also expanding my knowledge in **Linux and cybersecurity**, with an interest
 
 ## Tech Stack
 
+### Languages & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML and CSS">
+</p>
+
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express" alt="JavaScript, Node.js and Express.js">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js">
 </p>
 
-### Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS">
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" alt="Git, GitHub, VS Code, Linux, Bash and npm">
-</p>
-
-### API Development
+### APIs & Backend Concepts
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/HTTP-005C84?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTP">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/CRUD-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="CRUD">
+</p>
+
+### JavaScript Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Callbacks-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Callbacks">
+  <img src="https://img.shields.io/badge/Promises-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Promises">
+  <img src="https://img.shields.io/badge/Async%2FAwait-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Async Await">
+  <img src="https://img.shields.io/badge/DOM-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="DOM">
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" alt="Git, GitHub, VS Code, Linux, Bash and npm">
 </p>
 
 ---
@@ -142,7 +155,7 @@ Concepts explored include:
 
 ## Cybersecurity
 
-Alongside backend development, I'm expanding my knowledge of **cybersecurity and ethical hacking**.
+Alongside backend development, I'm expanding my knowledge in **cybersecurity and ethical hacking**.
 
 Areas of interest include:
 
@@ -160,21 +173,11 @@ My goal is to combine **backend development and security** to better understand 
 
 ## Currently Expanding My Stack
 
-```text
-JavaScript
-    ↓
-Node.js
-    ↓
-Express.js
-    ↓
-REST APIs
-    ↓
-Databases
-    ↓
-Backend Architecture
-    ↓
-Cybersecurity
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb" alt="Technologies">
+</p>
+
+I'm currently expanding my backend knowledge toward **databases, backend architecture and more advanced API development**.
 
 ---
 
@@ -182,7 +185,7 @@ Cybersecurity
 
 **Spanish** — Native
 
-**English** — Intermediate · Currently improving
+**English** — Advanced
 
 I'm improving my English with a focus on **technology, professional communication and international work environments**.
 
