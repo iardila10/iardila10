@@ -47,127 +47,73 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <div align="center">
 
+<div align="center">
+
 ## Tech Stack
 
-### Languages
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python" height="50" alt="JavaScript and Python">
-</p>
+<!-- Main Stack -->
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,fastapi,git,github,vscode,linux,bash,npm,postman" alt="Technology Stack">
+
+<br><br>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="HTML and CSS">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="HTML, CSS and JavaScript">
 </p>
+
+<p>
+  HTML · CSS · JavaScript
+</p>
+
+<br>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="50" alt="Node.js, Express.js and FastAPI">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="50" alt="Node.js, Express.js, Python and FastAPI">
 </p>
-
-### APIs & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,json" height="50" alt="Postman and JSON">
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40" alt="REST API">
-  <img src="https://img.shields.io/badge/CRUD-4B5563?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="CRUD">
+  Node.js · Express.js · Python · FastAPI
 </p>
+
+<br>
+
+### Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash" height="50" alt="Kali Linux, Linux and Bash">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+</p>
+
+<p>
+  Kali Linux · Nmap · Metasploit · Wireshark · Burp Suite · Bash
+</p>
+
+<br>
 
 ### Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" height="50" alt="Git, GitHub, VS Code, Linux, Bash and npm">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,postman" height="50" alt="Git, GitHub, VS Code, Linux, Bash, npm and Postman">
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-## Core Skills
-
-<table>
-<tr>
-<td align="center" width="180">
-
-<b>Backend</b>
-
-<br><br>
-
-REST APIs<br>
-API Architecture<br>
-CRUD<br>
-HTTP<br>
-JSON<br>
-Error Handling
-
-</td>
-
-<td align="center" width="180">
-
-<b>JavaScript</b>
-
-<br><br>
-
-Async / Await<br>
-Promises<br>
-Callbacks<br>
-DOM<br>
-Data Manipulation<br>
-Modular Code
-
-</td>
-
-<td align="center" width="180">
-
-<b>Development</b>
-
-<br><br>
-
-Git<br>
-GitHub<br>
-Linux<br>
-Bash<br>
-npm<br>
-Postman
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## Current Focus
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres" height="50">
-</p>
-
-**Backend Architecture · REST APIs · Databases · Application Security**
-
-</div>
-
----
-
-<div align="center">
-
-## Cybersecurity
-
-<p>
-I'm also developing my knowledge in <strong>Cybersecurity and Ethical Hacking</strong>,
-with a focus on Linux, networking, web security and application security.
+  Git · GitHub · VS Code · Linux · Bash · npm · Postman
 </p>
 
 </div>
 
----
 
 <div align="center">
 
@@ -183,17 +129,17 @@ with a focus on Linux, networking, web security and application security.
 
 <div align="center">
 
+<div align="center">
+
 ## GitHub Activity
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iardila10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iardila10&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iardila10&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iardila10&theme=github-dark&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iardila10&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
