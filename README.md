@@ -4,20 +4,21 @@
 
 ### Full Stack Developer · Specialized in Backend Development
 
-Building scalable web applications, REST APIs and practical software solutions.
+Building web applications, REST APIs and practical software solutions.
 
 <br>
 
 <a href="https://github.com/iardila10">
-  <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="mailto:freeguasonp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=iardila10&style=flat-square&color=181717&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=iardila10&style=flat-square&color=181717&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -27,25 +28,25 @@ Building scalable web applications, REST APIs and practical software solutions.
 
 ## About Me
 
+<p>
+I'm a <strong>Full Stack Developer specialized in Backend Development</strong>,
+focused on building APIs, backend systems and practical software solutions.
+</p>
+
+<p>
+My main development stack includes <strong>JavaScript, Node.js, Express.js,
+Python and FastAPI</strong>, while continuously expanding my knowledge
+across the full stack.
+</p>
+
+<p>
+I'm particularly interested in <strong>software architecture, APIs,
+cybersecurity, Linux and scalable applications</strong>.
+</p>
+
 </div>
 
-<p align="center">
-I'm a <strong>Full Stack Developer specialized in Backend Development</strong>, focused on designing APIs,
-building backend systems and creating practical software solutions.
-</p>
-
-<p align="center">
-My main focus is backend engineering with <strong>JavaScript, Node.js, Express.js, Python and FastAPI</strong>,
-while continuously expanding my knowledge across the full development stack.
-</p>
-
-<p align="center">
-I'm particularly interested in <strong>software architecture, APIs, cybersecurity, Linux and scalable applications</strong>.
-</p>
-
 ---
-
-<div align="center">
 
 <div align="center">
 
@@ -53,82 +54,58 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <br>
 
-<!-- Main Stack -->
-
 <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,fastapi,git,github,vscode,linux,bash,npm,postman" alt="Technology Stack">
 
 <br><br>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="HTML, CSS and JavaScript">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="55" alt="HTML CSS JavaScript">
 
-<p>
-  HTML · CSS · JavaScript
-</p>
+<br><br>
 
-<br>
+HTML · CSS · JavaScript
+
+<br><br>
 
 ### Backend
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="55" alt="Node.js Express.js Python FastAPI">
+
+<br><br>
+
+Node.js · Express.js · Python · FastAPI
+
+<br><br>
+
+### Cybersecurity
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="50" alt="Node.js, Express.js, Python and FastAPI">
+  <img src="https://skillicons.dev/icons?i=kali" height="55" alt="Kali Linux">
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="Bash">
 </p>
 
 <p>
-  Node.js · Express.js · Python · FastAPI
+  <img src="https://cdn.simpleicons.org/nmap/4D4D4D" height="55" alt="Nmap">
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="55" alt="Metasploit">
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="55" alt="Wireshark">
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="55" alt="Burp Suite">
 </p>
 
 <br>
 
-<div align="center">
+Kali Linux · Linux · Bash · Nmap · Metasploit · Wireshark · Burp Suite
 
-## Cybersecurity
-
-<p>
-  I'm expanding my knowledge in <strong>Cybersecurity and Ethical Hacking</strong>,
-  with a focus on Linux, networking, web security and application security.
-</p>
-
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash" height="50" alt="Kali Linux, Linux and Bash">
-</p>
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-</p>
-
-</div>
+<br><br>
 
 ### Development Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,postman" height="50" alt="Git, GitHub, VS Code, Linux, Bash, npm and Postman">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,postman" height="55" alt="Git GitHub VS Code Linux Bash npm Postman">
 
-<p>
-  Git · GitHub · VS Code · Linux · Bash · npm · Postman
-</p>
+<br><br>
 
-</div>
-
-
-<div align="center">
-
-## Languages
-
-🇨🇴 **Spanish** — Native
-
-🇺🇸 **English** — Intermediate · Currently improving
+Git · GitHub · VS Code · Linux · Bash · npm · Postman
 
 </div>
 
@@ -136,9 +113,15 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <div align="center">
 
-<div align="center">
+## Languages
 
-<div align="center">
+🇨🇴 <strong>Spanish</strong> — Native
+
+🇺🇸 <strong>English</strong> — Intermediate · Currently Improving
+
+</div>
+
+---
 
 <div align="center">
 
@@ -146,29 +129,36 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <br>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iardila10&theme=github_dark"
-  width="95%"
-  alt="GitHub Contribution Activity"
->
+<p>
+  <img
+    src="https://raw.githubusercontent.com/iardila10/iardila10/output/contributions.svg"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  >
+</p>
 
 </div>
+
+---
+
+<div align="center">
+
 ## Development Philosophy
 
 <br>
 
-**Build. Learn. Improve.**
+### Build. Learn. Improve.
 
-<br><br>
-
+<p>
 I believe great software comes from understanding problems,
 designing effective solutions and continuously improving the way we build.
+</p>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Backend%20Focused-181717?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem%20Solver-181717?style=for-the-badge">
-<img src="https://img.shields.io/badge/Always%20Learning-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backend%20Focused-181717?style=for-the-badge" alt="Backend Focused">
+<img src="https://img.shields.io/badge/Problem%20Solver-181717?style=for-the-badge" alt="Problem Solver">
+<img src="https://img.shields.io/badge/Always%20Learning-181717?style=for-the-badge" alt="Always Learning">
 
 </div>
 
@@ -181,11 +171,11 @@ designing effective solutions and continuously improving the way we build.
 <br>
 
 <a href="https://github.com/iardila10">
-  <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-iardila10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="mailto:freeguasonp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-freeguasonp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-freeguasonp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
