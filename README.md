@@ -2,7 +2,7 @@
 
 # Emiliano Ardila
 
-### Full Stack Developer | Especializado en Backend 🚀
+### Full Stack Developer | Backend specialized 🚀
 
 Backend-focused Full Stack Developer dedicated to building robust REST APIs, practical software solutions, and efficient system architectures.
 
@@ -30,21 +30,26 @@ My primary workflow consists of designing efficient servers, handling data struc
 ## 🛠️ Tech Stack
 
 ### Languages & Frontend
-
-<p>
-  <img src="https://skillicons.dev" alt="Python, JavaScript, HTML and CSS">
+<p align="left">
+  <img src="https://skillicons.dev" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="JavaScript" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="HTML5" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="CSS3" width="40" height="40" />
 </p>
 
 ### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev" alt="Node.js, Express, Python and FastAPI">
+<p align="left">
+  <img src="https://skillicons.dev" alt="Node.js" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="Express.js" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="FastAPI" width="40" height="40" />
 </p>
 
 ### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev" alt="Git, GitHub and Postman">
+<p align="left">
+  <img src="https://skillicons.dev" alt="Git" width="40" height="40" />
+  <img src="https://skillicons.devhub" alt="GitHub" width="40" height="40" />
+  <img src="https://skillicons.dev" alt="Postman" width="40" height="40" />
 </p>
 
 ---
