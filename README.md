@@ -87,7 +87,7 @@ Node.js · Express.js · Python · FastAPI
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/nmap/4D4D4D" height="55" alt="Nmap">
+ <img src="https://nmap.org/images/nmap-logo-64px.svg" height="55" alt="Nmap">
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="55" alt="Metasploit">
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="55" alt="Wireshark">
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="55" alt="Burp Suite">
