@@ -131,19 +131,15 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <div align="center">
 
+<div align="center">
+
 ## GitHub Activity
 
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iardila10&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph">
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iardila10&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak">
-
 </div>
-
----
 
 <div align="center">
 
