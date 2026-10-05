@@ -83,11 +83,22 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <br>
 
-### Cybersecurity
+<div align="center">
+
+## Cybersecurity
+
+<p>
+  I'm expanding my knowledge in <strong>Cybersecurity and Ethical Hacking</strong>,
+  with a focus on Linux, networking, web security and application security.
+</p>
+
+<br>
 
 <p>
   <img src="https://skillicons.dev/icons?i=kali,linux,bash" height="50" alt="Kali Linux, Linux and Bash">
 </p>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
@@ -96,11 +107,7 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
 </p>
 
-<p>
-  Kali Linux · Nmap · Metasploit · Wireshark · Burp Suite · Bash
-</p>
-
-<br>
+</div>
 
 ### Development Environment
 
@@ -133,16 +140,19 @@ I'm particularly interested in <strong>software architecture, APIs, cybersecurit
 
 <div align="center">
 
+<div align="center">
+
 ## GitHub Activity
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iardila10&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iardila10&theme=github_dark"
+  width="95%"
+  alt="GitHub Contribution Activity"
+>
 
 </div>
-
-<div align="center">
-
 ## Development Philosophy
 
 <br>
